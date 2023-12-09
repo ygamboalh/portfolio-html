@@ -240,11 +240,14 @@ h2::selection {
 
 /* Project 2 */
 .card-1:nth-child(2) {
-  background: url(../assets/project/automat-or.png) center center/cover;
+  background: url(../assets/project/wmikf.jpg) center center/cover;
 }
 
 /* Project 3 */
 .card-1:nth-child(3) {
+  background: url(../assets/project/cic.png) center center/cover;
+}
+.card-1:nth-child(4) {
   background: url(../assets/project/cic.png) center center/cover;
 }
 
